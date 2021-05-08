@@ -1,0 +1,7 @@
+C:\Users\Ashwin Menon\Desktop\C# basics\Ash\CreatinganObject\bin\Debug\CreatinganObject.exe.config
+C:\Users\Ashwin Menon\Desktop\C# basics\Ash\CreatinganObject\bin\Debug\CreatinganObject.exe
+C:\Users\Ashwin Menon\Desktop\C# basics\Ash\CreatinganObject\bin\Debug\CreatinganObject.pdb
+C:\Users\Ashwin Menon\Desktop\C# basics\Ash\CreatinganObject\obj\Debug\CreatinganObject.csprojAssemblyReference.cache
+C:\Users\Ashwin Menon\Desktop\C# basics\Ash\CreatinganObject\obj\Debug\CreatinganObject.csproj.CoreCompileInputs.cache
+C:\Users\Ashwin Menon\Desktop\C# basics\Ash\CreatinganObject\obj\Debug\CreatinganObject.exe
+C:\Users\Ashwin Menon\Desktop\C# basics\Ash\CreatinganObject\obj\Debug\CreatinganObject.pdb
